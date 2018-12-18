@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a021d9865e5efca40981fc03870fd1ad, type: 3}
+  m_Name: MagicStick
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 4faa0b7635356304fa29f1e9ef309faf, type: 3}
+  handheldPrefab: {fileID: 1237292262580590, guid: 47a1892f0f3022142b27df6f4e53d40e,
+    type: 2}
+  isDefaultItem: 0

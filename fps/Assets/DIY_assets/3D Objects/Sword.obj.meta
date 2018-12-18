@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 6519f6b1b7ee04658ba470f5556b7580
+timeCreated: 1511776339
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Null_Kapsel_1
+    100002: Null_Kugel
+    100004: Null_Kugel1
+    100006: Null_Kugel_1
+    100008: Null_Kugel_11
+    100010: Null_Kugel_12
+    100012: Null_Platonischer_K_rper
+    100014: Null_Zylinder
+    100016: Platonischer_K_rper_1
+    100018: //RootNode
+    400000: Null_Kapsel_1
+    400002: Null_Kugel
+    400004: Null_Kugel1
+    400006: Null_Kugel_1
+    400008: Null_Kugel_11
+    400010: Null_Kugel_12
+    400012: Null_Platonischer_K_rper
+    400014: Null_Zylinder
+    400016: Platonischer_K_rper_1
+    400018: //RootNode
+    2300000: Null_Kapsel_1
+    2300002: Null_Kugel
+    2300004: Null_Kugel1
+    2300006: Null_Kugel_1
+    2300008: Null_Kugel_11
+    2300010: Null_Kugel_12
+    2300012: Null_Platonischer_K_rper
+    2300014: Null_Zylinder
+    2300016: Platonischer_K_rper_1
+    3300000: Null_Kapsel_1
+    3300002: Null_Kugel
+    3300004: Null_Kugel1
+    3300006: Null_Kugel_1
+    3300008: Null_Kugel_11
+    3300010: Null_Kugel_12
+    3300012: Null_Platonischer_K_rper
+    3300014: Null_Zylinder
+    3300016: Platonischer_K_rper_1
+    4300000: Null_Kapsel_1
+    4300002: Null_Kugel
+    4300004: Null_Kugel1
+    4300006: Null_Kugel_1
+    4300008: Null_Kugel_11
+    4300010: Null_Kugel_12
+    4300012: Null_Platonischer_K_rper
+    4300014: Null_Zylinder
+    4300016: Platonischer_K_rper_1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_Kapsel_1Mat
+    second: {fileID: 2100000, guid: fea7264f808b14f448745466fdb6b272, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_Kugel1Mat
+    second: {fileID: 2100000, guid: 362617ba650f14dd48ec3bd0f1bf216d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_KugelMat
+    second: {fileID: 2100000, guid: 7d4b94081a44b496bae7f351b2258671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_Kugel_11Mat
+    second: {fileID: 2100000, guid: 7d4b94081a44b496bae7f351b2258671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_Kugel_12Mat
+    second: {fileID: 2100000, guid: 419da181886164f0199d3dcee3f8702f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_Kugel_1Mat
+    second: {fileID: 2100000, guid: 7d4b94081a44b496bae7f351b2258671, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_Platonischer_K_rperMat
+    second: {fileID: 2100000, guid: f7b3cfe17d6644dff9eb14744dfb43c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Null_ZylinderMat
+    second: {fileID: 2100000, guid: 362617ba650f14dd48ec3bd0f1bf216d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Platonischer_K_rper_1Mat
+    second: {fileID: 2100000, guid: 9b662320c14944aaab52c9d3d01ca6a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.002
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
