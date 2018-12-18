@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 6519f6b1b7ee04658ba470f5556b7580
-timeCreated: 1511776339
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: Null_Kapsel_1
     100002: Null_Kugel
@@ -52,6 +50,7 @@ ModelImporter:
     4300012: Null_Platonischer_K_rper
     4300014: Null_Zylinder
     4300016: Platonischer_K_rper_1
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -67,12 +66,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Null_KugelMat
-    second: {fileID: 2100000, guid: 7d4b94081a44b496bae7f351b2258671, type: 2}
+    second: {fileID: 2100000, guid: 6e610aa0d59cf4cbea11510cde05bef5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Null_Kugel_11Mat
-    second: {fileID: 2100000, guid: 7d4b94081a44b496bae7f351b2258671, type: 2}
+    second: {fileID: 2100000, guid: 4bb4577869f214a9481737d9b0230866, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -92,7 +91,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Null_ZylinderMat
-    second: {fileID: 2100000, guid: 362617ba650f14dd48ec3bd0f1bf216d, type: 2}
+    second: {fileID: 2100000, guid: abe66cf7be86a48708c37b135a8c97d4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -116,6 +115,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -130,6 +130,7 @@ ModelImporter:
     globalScale: 0.002
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
@@ -140,16 +141,23 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
@@ -164,7 +172,6 @@ ModelImporter:
     legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
